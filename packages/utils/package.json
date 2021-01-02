@@ -1,0 +1,21 @@
+{
+  "name": "@beyond-cli/utils",
+  "version": "1.0.0",
+  "description": "beyond-cli utils",
+  "author": "baiyan <baiyan14514@ipalfish.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+  }
+}
