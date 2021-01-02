@@ -1,6 +1,6 @@
 {
   "name": "@beyond-cli/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "beyond-cli core",
   "author": "baiyan <baiyan14514@ipalfish.com>",
   "homepage": "",
@@ -19,5 +19,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "cbcee11aefe82abe31f015869920c2c2ccaa7613"
+  "gitHead": "4e9d7e72a2c3d9eab8caa8a03b94cc0b35d33f39"
 }

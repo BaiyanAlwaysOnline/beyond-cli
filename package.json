@@ -1,7 +1,23 @@
 {
-  "name": "root",
-  "private": true,
+  "name": "beyond-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaiyanAlwaysOnline/beyond-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaiyanAlwaysOnline/beyond-cli/issues"
+  },
   "devDependencies": {
     "lerna": "^3.22.1"
-  }
+  },
+  "homepage": "https://github.com/BaiyanAlwaysOnline/beyond-cli#readme"
 }
