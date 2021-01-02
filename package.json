@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/BaiyanAlwaysOnline/beyond-cli/issues"
   },
-  "devDependencies": {
-    "lerna": "^3.22.1"
-  },
   "homepage": "https://github.com/BaiyanAlwaysOnline/beyond-cli#readme"
 }
