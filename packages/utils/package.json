@@ -1,8 +1,8 @@
 {
   "name": "@beyond-cli/utils",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "beyond-cli utils",
-  "author": "baiyan <baiyan14514@ipalfish.com>",
+  "author": "baiyan <baiyanalways@163.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/utils.js",
