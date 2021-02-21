@@ -27,8 +27,6 @@ async function exec() {
             packageVersion: 'latest'
         }
         pkg = new Package(options);
-        console.log(pkg);
-        const spinner = spinnerStart('正在初始化脚手架...');
         try {
             if (await pkg.exists()) {
                 await pkg.updatePackage();
@@ -36,10 +34,7 @@ async function exec() {
                 await pkg.installPackage();
             }
         }catch (e) {
-            spinner.fail('初始化脚手架失败！')
-            log.error(e.message);
-        }finally {
-            spinner.stop();
+            log.error('初始化脚手架失败！', e.message);
         }
     }else if(pathExists(targetPath)) {
         options = {
