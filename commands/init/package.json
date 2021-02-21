@@ -27,11 +27,11 @@
     "url": "https://github.com/BaiyanAlwaysOnline/beyond-cli/issues"
   },
   "dependencies": {
-    "@beyond-cli/command": "file:../../models/command",
-    "@beyond-cli/log": "file:../../utils/log",
-    "@beyond-cli/package": "file:../../models/package",
-    "@beyond-cli/request": "file:../../utils/request",
-    "@beyond-cli/utils": "file:../../utils/utils",
+    "@beyond-cli/command": "^1.1.0",
+    "@beyond-cli/log": "^1.1.0",
+    "@beyond-cli/package": "^1.1.0",
+    "@beyond-cli/request": "^1.1.0",
+    "@beyond-cli/utils": "^1.1.0",
     "colors": "^1.4.0",
     "ejs": "^3.1.6",
     "fs-extra": "^9.1.0",
@@ -40,5 +40,6 @@
     "kebab-case": "^1.0.0",
     "semver": "^7.3.4",
     "user-home": "^2.0.0"
-  }
+  },
+  "gitHead": "39a3c3a60a1c0a1bac241c947ea355b2a1712078"
 }

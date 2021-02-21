@@ -24,7 +24,8 @@
     "url": "https://github.com/BaiyanAlwaysOnline/beyond-cli/issues"
   },
   "dependencies": {
-    "@beyond-cli/log": "file:../../utils/log",
+    "@beyond-cli/log": "^1.1.0",
     "semver": "^7.3.4"
-  }
+  },
+  "gitHead": "39a3c3a60a1c0a1bac241c947ea355b2a1712078"
 }

@@ -20,11 +20,11 @@
     "access": "public"
   },
   "dependencies": {
-    "@beyond-cli/exec": "file:../exec",
+    "@beyond-cli/exec": "^1.1.0",
     "@beyond-cli/get-npm-info": "file:../../utils/get-npm-info",
-    "@beyond-cli/init": "file:../../commands/init",
-    "@beyond-cli/log": "file:../../utils/log",
-    "@beyond-cli/utils": "file:../../utils/utils",
+    "@beyond-cli/init": "^1.1.0",
+    "@beyond-cli/log": "^1.1.0",
+    "@beyond-cli/utils": "^1.1.0",
     "cfonts": "^2.9.1",
     "colors": "^1.4.0",
     "commander": "^7.0.0",
@@ -36,5 +36,5 @@
     "semver": "^7.3.4",
     "user-home": "^2.0.0"
   },
-  "gitHead": "183abbc2dd38002e35adf2275081a7adc9ef4fca"
+  "gitHead": "39a3c3a60a1c0a1bac241c947ea355b2a1712078"
 }

@@ -27,12 +27,13 @@
     "url": "https://github.com/BaiyanAlwaysOnline/beyond-cli/issues"
   },
   "dependencies": {
-    "@beyond-cli/format-path": "file:../../utils/format-path",
+    "@beyond-cli/format-path": "^1.1.0",
     "@beyond-cli/get-npm-info": "file:../../utils/get-npm-info",
-    "@beyond-cli/utils": "file:../../utils/utils",
+    "@beyond-cli/utils": "^1.1.0",
     "fs-extra": "^9.1.0",
     "npminstall": "^4.10.0",
     "path-exists": "^4.0.0",
     "pkg-dir": "^5.0.0"
-  }
+  },
+  "gitHead": "39a3c3a60a1c0a1bac241c947ea355b2a1712078"
 }
