@@ -1,6 +1,6 @@
 {
   "name": "@beyond-cli/command",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "beyond-cli command",
   "author": "baiyan <baiyan14514@ipalfish.com>",
   "homepage": "https://github.com/BaiyanAlwaysOnline/beyond-cli/tree/master/models/command#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/BaiyanAlwaysOnline/beyond-cli/issues"
   },
   "dependencies": {
-    "@beyond-cli/log": "^1.1.1",
+    "@beyond-cli/log": "^1.1.2",
     "semver": "^7.3.4"
   },
   "gitHead": "beb6e58e52107f2838e3425b5433db799c8db93d"

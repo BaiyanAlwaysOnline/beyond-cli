@@ -1,6 +1,6 @@
 {
   "name": "@beyond-cli/package",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "beyond-cli install package",
   "author": "baiyan <baiyan14514@ipalfish.com>",
   "homepage": "https://github.com/BaiyanAlwaysOnline/beyond-cli/tree/master/models/package#readme",
@@ -27,9 +27,9 @@
     "url": "https://github.com/BaiyanAlwaysOnline/beyond-cli/issues"
   },
   "dependencies": {
-    "@beyond-cli/format-path": "^1.1.1",
-    "@beyond-cli/get-npm-info": "^1.1.1",
-    "@beyond-cli/utils": "^1.1.1",
+    "@beyond-cli/format-path": "^1.1.2",
+    "@beyond-cli/get-npm-info": "^1.1.2",
+    "@beyond-cli/utils": "^1.1.2",
     "fs-extra": "^9.1.0",
     "npminstall": "^4.10.0",
     "path-exists": "^4.0.0",
