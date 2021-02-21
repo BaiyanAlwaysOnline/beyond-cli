@@ -1,9 +1,9 @@
 {
-  "name": "@beyond-cli/package",
+  "name": "@beyond-cli/init",
   "version": "1.1.0",
-  "description": "beyond-cli install package",
+  "description": "beyond-cli init",
   "author": "baiyan <baiyan14514@ipalfish.com>",
-  "homepage": "https://github.com/BaiyanAlwaysOnline/beyond-cli/tree/master/models/package#readme",
+  "homepage": "https://github.com/BaiyanAlwaysOnline/beyond-cli/tree/master/commands/init#readme",
   "license": "ISC",
   "main": "lib/index.js",
   "directories": {
@@ -27,12 +27,18 @@
     "url": "https://github.com/BaiyanAlwaysOnline/beyond-cli/issues"
   },
   "dependencies": {
-    "@beyond-cli/format-path": "file:../../utils/format-path",
-    "@beyond-cli/get-npm-info": "file:../../utils/get-npm-info",
+    "@beyond-cli/command": "file:../../models/command",
+    "@beyond-cli/log": "file:../../utils/log",
+    "@beyond-cli/package": "file:../../models/package",
+    "@beyond-cli/request": "file:../../utils/request",
     "@beyond-cli/utils": "file:../../utils/utils",
+    "colors": "^1.4.0",
+    "ejs": "^3.1.6",
     "fs-extra": "^9.1.0",
-    "npminstall": "^4.10.0",
-    "path-exists": "^4.0.0",
-    "pkg-dir": "^5.0.0"
+    "glob": "^7.1.6",
+    "inquirer": "^7.3.3",
+    "kebab-case": "^1.0.0",
+    "semver": "^7.3.4",
+    "user-home": "^2.0.0"
   }
 }
