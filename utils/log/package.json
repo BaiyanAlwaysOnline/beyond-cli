@@ -1,0 +1,35 @@
+{
+  "name": "@beyond-cli/log",
+  "version": "1.0.6",
+  "description": "log",
+  "keywords": [
+    "log"
+  ],
+  "author": "baiyan <baiyan14514@ipalfish.com>",
+  "homepage": "https://github.com/BaiyanAlwaysOnline/beyond-cli/tree/master/core/log#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaiyanAlwaysOnline/beyond-cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/BaiyanAlwaysOnline/beyond-cli/issues"
+  },
+  "dependencies": {
+    "npmlog": "^4.1.2"
+  }
+}

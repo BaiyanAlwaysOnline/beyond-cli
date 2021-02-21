@@ -1,0 +1,29 @@
+{
+  "name": "@beyond-cli/request",
+  "version": "1.0.6",
+  "description": "> TODO: description",
+  "author": "baiyan <baiyan14514@ipalfish.com>",
+  "homepage": "https://github.com/BaiyanAlwaysOnline/beyond-cli/tree/master/utils/request#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaiyanAlwaysOnline/beyond-cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/BaiyanAlwaysOnline/beyond-cli/issues"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}

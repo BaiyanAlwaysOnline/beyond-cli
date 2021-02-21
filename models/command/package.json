@@ -1,0 +1,30 @@
+{
+  "name": "@beyond-cli/command",
+  "version": "1.0.6",
+  "description": "beyond-cli command",
+  "author": "baiyan <baiyan14514@ipalfish.com>",
+  "homepage": "https://github.com/BaiyanAlwaysOnline/beyond-cli/tree/master/models/command#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaiyanAlwaysOnline/beyond-cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/BaiyanAlwaysOnline/beyond-cli/issues"
+  },
+  "dependencies": {
+    "semver": "^7.3.4",
+    "@beyond-cli/log": "file:../../utils/log"
+  }
+}
