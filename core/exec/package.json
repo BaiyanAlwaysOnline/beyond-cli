@@ -1,6 +1,6 @@
 {
   "name": "@beyond-cli/exec",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "beyond-cli execute package",
   "author": "baiyan <baiyan14514@ipalfish.com>",
   "homepage": "https://github.com/BaiyanAlwaysOnline/beyond-cli/tree/master/core/exec#readme",
@@ -27,9 +27,9 @@
     "url": "https://github.com/BaiyanAlwaysOnline/beyond-cli/issues"
   },
   "dependencies": {
-    "@beyond-cli/log": "^1.1.0",
-    "@beyond-cli/package": "^1.1.0",
-    "@beyond-cli/utils": "^1.1.0"
+    "@beyond-cli/log": "^1.1.1",
+    "@beyond-cli/package": "^1.1.1",
+    "@beyond-cli/utils": "^1.1.1"
   },
   "gitHead": "39a3c3a60a1c0a1bac241c947ea355b2a1712078"
 }

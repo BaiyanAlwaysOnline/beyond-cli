@@ -1,6 +1,6 @@
 {
   "name": "@beyond-cli/init",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "beyond-cli init",
   "author": "baiyan <baiyan14514@ipalfish.com>",
   "homepage": "https://github.com/BaiyanAlwaysOnline/beyond-cli/tree/master/commands/init#readme",
@@ -27,11 +27,11 @@
     "url": "https://github.com/BaiyanAlwaysOnline/beyond-cli/issues"
   },
   "dependencies": {
-    "@beyond-cli/command": "^1.1.0",
-    "@beyond-cli/log": "^1.1.0",
-    "@beyond-cli/package": "^1.1.0",
-    "@beyond-cli/request": "^1.1.0",
-    "@beyond-cli/utils": "^1.1.0",
+    "@beyond-cli/command": "^1.1.1",
+    "@beyond-cli/log": "^1.1.1",
+    "@beyond-cli/package": "^1.1.1",
+    "@beyond-cli/request": "^1.1.1",
+    "@beyond-cli/utils": "^1.1.1",
     "colors": "^1.4.0",
     "ejs": "^3.1.6",
     "fs-extra": "^9.1.0",
