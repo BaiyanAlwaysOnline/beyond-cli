@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@beyond-cli/exec": "^1.1.1",
-    "@beyond-cli/get-npm-info": "file:../../utils/get-npm-info",
+    "@beyond-cli/get-npm-info": "^1.1.1",
     "@beyond-cli/init": "^1.1.1",
     "@beyond-cli/log": "^1.1.1",
     "@beyond-cli/utils": "^1.1.1",
@@ -36,5 +36,5 @@
     "semver": "^7.3.4",
     "user-home": "^2.0.0"
   },
-  "gitHead": "39a3c3a60a1c0a1bac241c947ea355b2a1712078"
+  "gitHead": "beb6e58e52107f2838e3425b5433db799c8db93d"
 }

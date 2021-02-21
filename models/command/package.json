@@ -13,6 +13,9 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BaiyanAlwaysOnline/beyond-cli.git"
@@ -27,5 +30,5 @@
     "@beyond-cli/log": "^1.1.1",
     "semver": "^7.3.4"
   },
-  "gitHead": "39a3c3a60a1c0a1bac241c947ea355b2a1712078"
+  "gitHead": "beb6e58e52107f2838e3425b5433db799c8db93d"
 }
