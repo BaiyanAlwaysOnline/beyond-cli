@@ -1,6 +1,6 @@
 {
   "name": "@beyond-cli/init",
-  "version": "1.1.2",
+  "version": "1.1.4",
   "description": "beyond-cli init",
   "author": "baiyan <baiyan14514@ipalfish.com>",
   "homepage": "https://github.com/BaiyanAlwaysOnline/beyond-cli/tree/master/commands/init#readme",
